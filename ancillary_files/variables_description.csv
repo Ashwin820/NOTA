@@ -1,0 +1,40 @@
+Variable Name,Description
+uni_const_code,unique constituency code
+State_Name,name of state of constituency
+Assembly_No,count of assembly formation 
+Constituency_No,constituency number(given by ECI)
+Year,year of election
+Poll_No,indicator variable for by-elections/re-elections. 0 means normal election. 
+Position,position of candidate
+Candidate,candidate's name
+Sex,sex of candidate
+Party,party of candidate
+Votes,valid votes won by the candidate
+Candidate_Type,sc/st/gen bifurcation for candidate
+Valid_Votes,number of valid votes in the constituency
+Electors,total registered electors in a constituency
+Constituency_Name,name of constituency
+Constituency_Type,whether constituency is gen or reserved for sc/st
+Sub_Region,sub region for constituency
+N_Cand,number of contesting candidates in that constituency
+Turnout_Percentage,turnout percentage in constituency
+Vote_Share_Percentage,vote share percentage won by candidate
+Deposit_Lost,"yes' if deposit lost, 'no' if deposit not lost"
+Margin,absolute difference of valid votes from the candidate next in position
+Margin_Percentage,percentage difference of valid votes from the candidate next in position
+ENOP,effective number of political parties(based on formula by Laakso & Taagepera(1979)
+Max_Poll_No,last poll number for a constituency
+last_poll,"TRUE if this poll was the last, FALSE if not"
+Contested,number of times the candidate has contested so far
+Last_Party,name of the last party the candidate contested from
+Last_Constituency_Name,name of constituency given candidate constested from in the previous election
+Same_Constituency,"TRUE if candidate constesting from the same constituency, FALSE if not"
+Same_Party,"TRUE if candidate constesting from the same party, FALSE if not"
+No_Terms,number of contests won by the candidate uptil that year
+Turncoat,"TRUE if candidate is candidate switched political affliliations, FALSE if not"
+Incumbent,"TRUE if candidate is an incumbent, FALSE if not"
+Recontest,"TRUE if candidate contested in the previous assembly, FALSE if not"
+old_state_key,key of state given candidate constested from in the previous election
+gen/state,"0 if elections to the Lok Sabha, 1 if election to the Vidhan Sabha of the state"
+state_code_new,census 2001 codes for the states
+pre_post_nota_ind,"0 if pre NOTA period, 1 if post NOTA period"
