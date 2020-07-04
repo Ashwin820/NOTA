@@ -17,3 +17,5 @@ Description and Background : The project, 'NOTA: The Choice of Mugwumps?', essen
 
    3.6. analysis_df.csv, input_top_3_new.csv, pivot_n_nota_format.csv, pivot_nonulls.csv : Files used as data input in doc_codes.ipynb. All of these files are derived from cleanest_data.csv using Python but due to trivial issues(ones that I mention in ipynb file), I had to export them into excel, correct header row and then input these files back into the ipynb file.
 
+   Can be reached at badavadapav@gmail.com
+
