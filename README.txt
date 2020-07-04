@@ -1,4 +1,4 @@
-Description and Background : The project, 'NOTA: The Choice of Mugwumps?', essentially explores how NOTA impacts vote share of the independent candidates. This repository consists following files:
+Description and Background : The project, 'NOTA: The Choice of Mugwumps?', essentially explores how NOTA votes in India impact the vote share of independent candidates. This repository consists following files:
 
 1. NOTA_Mugwumps.pdf : Contains introduction, literature review, methodology, results, conclusion and appendices. This document is the torso of the project. Interested reader should start here. A skimming reader should also start here but can skip literature review, methodology, and (of course) the appendices.     
 
