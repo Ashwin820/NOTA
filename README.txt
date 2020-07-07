@@ -1,6 +1,6 @@
 Description and Background : The project, 'NOTA: The Choice of Mugwumps?', essentially explores how NOTA votes in India impact the vote share of independent candidates. This repository consists following files:
 
-1. NOTA_Mugwumps.pdf : Contains introduction, literature review, methodology, results, conclusion and appendices. This document is the torso of the project. Interested reader should start here. A skimming reader should also start here but can skip literature review, methodology, and (of course) the appendices.     
+1. NOTA_Mugwumps.pdf : Contains introduction, literature review, methodology, results, conclusion and appendices. This document is the torso of the project. Interested reader should start here. A skimming reader should also start here but can skip literature review, methodology, and the appendices.     
 
 2. doc_codes.ipynb : Documents codes used to produce figures and tables used in NOTA_Mugwumps.pdf. This file is for the meticulous reader who wants to verify the project results for him/herself. All codes are written in Python3.
 
